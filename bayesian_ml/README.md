@@ -8,4 +8,6 @@
 
 **theoretical_2** - matrix calculations
 
+**theoretical_3** - variational inference
+
 **task_1.ipynb** - relevance vector regression
