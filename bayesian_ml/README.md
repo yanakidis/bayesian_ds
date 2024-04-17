@@ -3,3 +3,5 @@
 **lab_1** - probabilistic models of course attendance
 
 **theoretical_1** - conjugate distributions and exponential class of distributions
+
+**task_1.ipynb** - relevance vector regression
