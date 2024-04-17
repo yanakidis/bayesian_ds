@@ -1,1 +1,1 @@
-**lab_1** - Sparse Bayesian Neural Networks using Automatic Relevance Determination
+**lab_1** - sparse Bayesian neural networks using automatic relevance determination (ARD)
