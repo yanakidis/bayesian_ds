@@ -3,3 +3,5 @@
 **lab_2.ipynb** - density estimation using real NVP
 
 **lab_3.ipynb** - variational autoencoder (VAE)
+
+**lab_4** - denoising diffusion probabilistic models
