@@ -11,3 +11,5 @@
 **theoretical_3** - variational inference
 
 **task_1.ipynb** - relevance vector regression
+
+**task_2** - Langevin dynamics
