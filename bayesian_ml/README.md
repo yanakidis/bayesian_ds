@@ -14,6 +14,6 @@
 
 **task_2** - Langevin dynamics
 
-**task_3.ipynb** - latent Dirichlet allocation
+**task_3.ipynb** - Bayesian optimization
 
-**task_4.ipynb** - Bayesian optimization
+**task_4.ipynb** - latent Dirichlet allocation
