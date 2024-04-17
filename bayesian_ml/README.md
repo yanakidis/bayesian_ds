@@ -13,3 +13,7 @@
 **task_1.ipynb** - relevance vector regression
 
 **task_2** - Langevin dynamics
+
+**task_3.ipynb** - latent Dirichlet allocation
+
+**task_4.ipynb** - Bayesian optimization
